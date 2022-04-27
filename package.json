@@ -1,0 +1,11 @@
+{
+  "name": "fullstack-recipes",
+  "version": "1.0.0",
+  "description": "fullstack recipes",
+  "main": "index.js",
+  "author": "gratien",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
