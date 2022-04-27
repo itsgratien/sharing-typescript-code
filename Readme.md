@@ -7,7 +7,7 @@ Sharing typescript codes in different projects
 
 # Running the application
 ```bash
-clone this repo
+git clone https://github.com/itsgratien/sharing-typescript-code.git
 yarn install
 cd api
 yarn install
